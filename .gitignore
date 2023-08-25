@@ -1,0 +1,9 @@
+/client/mode_modules
+/client/.env
+
+/server/node_modules
+/server/.env
+/server/Public/Pictures/
+
+/socket/node_modules
+/socket/.env
